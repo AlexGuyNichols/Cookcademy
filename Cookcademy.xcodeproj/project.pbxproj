@@ -42,6 +42,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A5A82BB428B3DE80002667FF /* ExploreRecipes */ = {
+			isa = PBXGroup;
+			children = (
+				A5E0E06628A668590089C74E /* RecipesListView.swift */,
+				A5E0E06A28A675DF0089C74E /* RecipeDetailView.swift */,
+				A5E0E08828A6BBDC0089C74E /* RecipeCategoryGridView.swift */,
+			);
+			path = ExploreRecipes;
+			sourceTree = "<group>";
+		};
+		A5A82BB528B3DE97002667FF /* ModifyRecipes */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ModifyRecipes;
+			sourceTree = "<group>";
+		};
 		A5E0E02B28A13A520089C74E = {
 			isa = PBXGroup;
 			children = (
@@ -82,9 +99,8 @@
 		A5E0E06328A3FBC70089C74E /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				A5E0E06628A668590089C74E /* RecipesListView.swift */,
-				A5E0E06A28A675DF0089C74E /* RecipeDetailView.swift */,
-				A5E0E08828A6BBDC0089C74E /* RecipeCategoryGridView.swift */,
+				A5A82BB528B3DE97002667FF /* ModifyRecipes */,
+				A5A82BB428B3DE80002667FF /* ExploreRecipes */,
 			);
 			path = Views;
 			sourceTree = "<group>";
