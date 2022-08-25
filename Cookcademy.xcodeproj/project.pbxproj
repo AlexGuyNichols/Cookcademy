@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A5A82BB728B3DF11002667FF /* ModifyRecipeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5A82BB628B3DF11002667FF /* ModifyRecipeView.swift */; };
+		A5A82BD328B7CD66002667FF /* ModifyMainInformationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5A82BD228B7CD66002667FF /* ModifyMainInformationView.swift */; };
 		A5E0E03828A13A520089C74E /* CookcademyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5E0E03728A13A520089C74E /* CookcademyApp.swift */; };
 		A5E0E03C28A13A550089C74E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5E0E03B28A13A550089C74E /* Assets.xcassets */; };
 		A5E0E03F28A13A550089C74E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5E0E03E28A13A550089C74E /* Preview Assets.xcassets */; };
@@ -21,6 +22,7 @@
 
 /* Begin PBXFileReference section */
 		A5A82BB628B3DF11002667FF /* ModifyRecipeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModifyRecipeView.swift; sourceTree = "<group>"; };
+		A5A82BD228B7CD66002667FF /* ModifyMainInformationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModifyMainInformationView.swift; sourceTree = "<group>"; };
 		A5E0E03428A13A520089C74E /* Cookcademy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cookcademy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5E0E03728A13A520089C74E /* CookcademyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CookcademyApp.swift; sourceTree = "<group>"; };
 		A5E0E03B28A13A550089C74E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				A5A82BB628B3DF11002667FF /* ModifyRecipeView.swift */,
+				A5A82BD228B7CD66002667FF /* ModifyMainInformationView.swift */,
 			);
 			path = ModifyRecipes;
 			sourceTree = "<group>";
@@ -202,6 +205,7 @@
 				A5A82BB728B3DF11002667FF /* ModifyRecipeView.swift in Sources */,
 				A5E0E03828A13A520089C74E /* CookcademyApp.swift in Sources */,
 				A5E0E06728A668590089C74E /* RecipesListView.swift in Sources */,
+				A5A82BD328B7CD66002667FF /* ModifyMainInformationView.swift in Sources */,
 				A5E0E06D28A67E2A0089C74E /* AppColor.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
